@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CrMall", "CrMall\CrMall.csproj", "{EA885250-B8D2-444E-B57C-C5D7BD4D5AFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA885250-B8D2-444E-B57C-C5D7BD4D5AFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA885250-B8D2-444E-B57C-C5D7BD4D5AFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA885250-B8D2-444E-B57C-C5D7BD4D5AFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA885250-B8D2-444E-B57C-C5D7BD4D5AFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {21EBA7A5-5BB5-4509-AD1D-0816DC331D18}
+	EndGlobalSection
+EndGlobal
